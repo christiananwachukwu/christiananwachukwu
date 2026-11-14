@@ -1,16 +1,54 @@
-## Hi there 👋
+Hi, I'm Christiana Nwachukwu 👋
 
-<!--
-**christiananwachukwu/christiananwachukwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+I'm a Software Development student at BYU-Pathway Worldwide, a Public Health Educator, and a digital content creator. I enjoy learning new technologies, solving problems, and building practical solutions through code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👩‍💻 About Me
+
+- 🎓 Studying Software Development at BYU-Pathway Worldwide.
+- 🌱 Currently developing my skills in web development, Python, JavaScript, and APIs.
+- 🔭 Working on practical software development projects.
+- 💡 Interested in technology, problem-solving, and creating useful digital solutions.
+- 🤝 Always open to learning, collaboration, and new opportunities.
+
+🛠️ Technologies & Tools
+
+- HTML & CSS
+- JavaScript
+- Python
+- Git & GitHub
+- SQL & PostgreSQL
+- Next.js & Tailwind CSS
+- pytest & GitHub Actions
+- VS Code
+
+🚀 Featured Projects
+
+Teton Chamber Website
+
+A web development project involving Python, automated testing, GitHub Actions, and deployment. Improved test coverage from 40% to 95%.
+
+"View Project" (https://github.com/christiananwachukwu/cse270-teton)
+
+HealthyKids Application
+
+A health-focused web application developed as part of my software development coursework.
+
+Nigerian Culture & Contacts API
+
+Coursework projects exploring API development and application data.
+
+Handcrafted Haven
+
+A collaborative web development project.
+
+🌍 A Little More About Me
+
+My background in education and public health has strengthened my communication, teamwork, research, and problem-solving skills. I enjoy bringing these skills into technology as I continue growing as a developer.
+
+🤝 Let's Connect
+
+- GitHub: "@christiananwachukwu" (https://github.com/christiananwachukwu)
+
+Thanks for visiting my profile! Feel free to explore my repositories and follow my learning journey. 🚀
