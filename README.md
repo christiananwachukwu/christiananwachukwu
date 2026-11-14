@@ -34,14 +34,19 @@ A web development project involving Python, automated testing, GitHub Actions, a
 HealthyKids Application
 
 A health-focused web application developed as part of my software development coursework.
+View project https://github.com/christiananwachukwu/healthyKids-app
 
 Nigerian Culture & Contacts API
 
 Coursework projects exploring API development and application data.
+View project
+https://github.com/christiananwachukwu/cse341-nigerian-culture-api
 
 Handcrafted Haven
 
 A collaborative web development project.
+View project 
+https://github.com/Daveralphy/handcrafted-haven
 
 🌍 A Little More About Me
 
