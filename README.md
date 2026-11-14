@@ -78,6 +78,7 @@ My background in education and public health has strengthened my communication, 
 
 🤝 Let's Connect
 
-- GitHub: "@christiananwachukwu" (https://github.com/christiananwachukwu)
+- LinkedIn: https://www.linkedin.com/in/christiana-nwachukwu-3ab796151?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- Facebook: https://www.facebook.com/share/1A6VvBG3t5/
 
 Thanks for visiting my profile! Feel free to explore my repositories and follow my learning journey. 🚀
