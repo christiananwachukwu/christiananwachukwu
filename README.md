@@ -81,4 +81,12 @@ My background in education and public health has strengthened my communication, 
 - LinkedIn: https://www.linkedin.com/in/christiana-nwachukwu-3ab796151?utm_source=share_via&utm_content=profile&utm_medium=member_android
 - Facebook: https://www.facebook.com/share/1A6VvBG3t5/
 
+
+## 📊 My GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=christiananwachukwu&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=christiananwachukwu&layout=compact)
+
+
 Thanks for visiting my profile! Feel free to explore my repositories and follow my learning journey. 🚀
