@@ -48,6 +48,30 @@ A collaborative web development project.
 View project 
 https://github.com/Daveralphy/handcrafted-haven
 
+Next.js Foundations
+
+A project focused on learning modern web development using Next.js and building foundational frontend development skills.
+
+🔗 "View Next.js Foundations" (https://github.com/christiananwachukwu/wdd430-nextjs-foundations)
+
+SleepOutside – Team 4
+
+A collaborative e-commerce web development project involving frontend development and practical teamwork.
+
+🔗 "View SleepOutside" (https://github.com/christiananwachukwu/Wdd330-sleepoutsideTeam4-christiananwachukwu)
+
+CSE 210 – Programming with Classes
+
+Coursework focused on programming fundamentals, object-oriented programming and problem-solving.
+
+🔗 "View CSE 210" (https://github.com/christiananwachukwu/cse210)
+
+ WDD 231 – Web Frontend Development
+
+A collection of practical web development coursework and projects.
+
+🔗 "View WDD 231" (https://github.com/christiananwachukwu/wdd231)
+
 🌍 A Little More About Me
 
 My background in education and public health has strengthened my communication, teamwork, research, and problem-solving skills. I enjoy bringing these skills into technology as I continue growing as a developer.
